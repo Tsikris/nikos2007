@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Tsikri
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning python
-- 📫 How to reach me ... you can't
